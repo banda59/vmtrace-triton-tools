@@ -140,7 +140,7 @@ Core ideas and workflow were inspired by🙏:
 * Jonathan Salwan, VMProtect-devirtualization
   [https://github.com/JonathanSalwan/VMProtect-devirtualization](https://github.com/JonathanSalwan/VMProtect-devirtualization)  
 
-* Secret Club, “VMProtect: LLVM Lifting” series
+* Secret Club, “VMProtect: LLVM Lifting” series   
  [https://secret.club/2021/09/08/vmprotect-llvm-lifting-1.html](https://secret.club/2021/09/08/vmprotect-llvm-lifting-1.html)  
  [https://secret.club/2021/09/08/vmprotect-llvm-lifting-2.html](https://secret.club/2021/09/08/vmprotect-llvm-lifting-2.html)  
  [https://secret.club/2021/09/08/vmprotect-llvm-lifting-3.html](https://secret.club/2021/09/08/vmprotect-llvm-lifting-3.html)  
