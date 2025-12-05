@@ -138,12 +138,12 @@ The goal is to provide a faster, more systematic way to:
 Core ideas and workflow were inspired by🙏:
 
 * Jonathan Salwan, VMProtect-devirtualization
-  [https://github.com/JonathanSalwan/VMProtect-devirtualization](https://github.com/JonathanSalwan/VMProtect-devirtualization)
+  [https://github.com/JonathanSalwan/VMProtect-devirtualization](https://github.com/JonathanSalwan/VMProtect-devirtualization)  
 
 * Secret Club, “VMProtect: LLVM Lifting” series
-  [01] [https://secret.club/2021/09/08/vmprotect-llvm-lifting-1.html](https://secret.club/2021/09/08/vmprotect-llvm-lifting-1.html)
-  [02] [https://secret.club/2021/09/08/vmprotect-llvm-lifting-2.html](https://secret.club/2021/09/08/vmprotect-llvm-lifting-2.html)
-  [03] [https://secret.club/2021/09/08/vmprotect-llvm-lifting-3.html](https://secret.club/2021/09/08/vmprotect-llvm-lifting-3.html)
+ [https://secret.club/2021/09/08/vmprotect-llvm-lifting-1.html](https://secret.club/2021/09/08/vmprotect-llvm-lifting-1.html)  
+ [https://secret.club/2021/09/08/vmprotect-llvm-lifting-2.html](https://secret.club/2021/09/08/vmprotect-llvm-lifting-2.html)  
+ [https://secret.club/2021/09/08/vmprotect-llvm-lifting-3.html](https://secret.club/2021/09/08/vmprotect-llvm-lifting-3.html)  
 
 * (Background reading, Korean)
   “VMProtect의 역공학 방해 기능 분석 및 Pin을 이용한 우회 방안”
