@@ -137,7 +137,7 @@ The goal is to provide a faster, more systematic way to:
 
 Core ideas and workflow were inspired by🙏:
 
-* Jonathan Salwan, VMProtect-devirtualization
+* Jonathan Salwan, VMProtect-devirtualization   
   [https://github.com/JonathanSalwan/VMProtect-devirtualization](https://github.com/JonathanSalwan/VMProtect-devirtualization)  
 
 * Secret Club, “VMProtect: LLVM Lifting” series   
