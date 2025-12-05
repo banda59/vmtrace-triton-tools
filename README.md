@@ -1,4 +1,3 @@
-````markdown
 # vmtrace-triton-tools
 
 Small Triton-based helpers for analyzing VMProtect-style virtual machine handlers from execution traces.
@@ -73,7 +72,6 @@ This is aimed at quickly answering questions such as:
 
    ```text
    vmtrace.out
-````
 
 2. Identify a handler entry
 
